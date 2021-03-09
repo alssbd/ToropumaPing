@@ -1,0 +1,9 @@
+﻿Host := "google.es"		;Insert your Hostname or IPAdress to ping.
+Font := "Arial"			;Choose your desired Font.
+FontColor := "19c97d" 		;Put here your prefered color in Hex format.
+FontSize := "10"		;Well, pretty straight fordward, (you're not straight).
+Background := "Light" 		;Choose "Light" or "Dark" depending on what your game in the background would be.
+
+
+
+Cum := "YES"			;Let my TOROPUMA cum on you, just say YES or the app won't start.
